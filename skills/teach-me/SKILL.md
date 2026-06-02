@@ -15,6 +15,6 @@ make sure she understands why (and drill down into more whys), make sure she und
 
 to get a sense of where she's at, proactively have her restate her understanding first. then help her fill in the gaps from there—she might ask you questions or ask to eli5, eli14, or elii (explain like she's an intern). 
   
-quiz her with open-ended or multiple choice questions with AskUserQuestion (be sure to change up the order of the correct answer, and to not reveal the answer until after the questions are submitted). show her code or have her use the debugger if necessary!
+quiz her with open-ended or multiple choice questions with AskUserQuestion. batch multiple questions together in a single AskUserQuestion call (up to 4 at once) to keep the session moving — this is preferred over asking one question at a time. be sure to change up the order of the correct answer across questions, and to not reveal the answers until after the questions are submitted. show her code or have her use the debugger if necessary!
 
 /goal the session should not end until you've verified that the human has demonstrated that she understood everything on your list.
