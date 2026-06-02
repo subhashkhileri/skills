@@ -1,6 +1,6 @@
 ---
-name: teach-me
-description: Teach the user to deeply understand the current session — the problem, the solution, the design decisions, and the broader impact. Works incrementally, confirms mastery at each stage before moving on, and quizzes the user throughout. Use when the user says "teach me", "help me understand", "walk me through this", "explain this to me", or wants to verify deep understanding of what was discussed.
+name: teach-session
+description: Teach the user to deeply understand the current session — the problem, the solution, the design decisions, and the broader impact. Works incrementally, confirms mastery at each stage before moving on, and quizzes the user throughout. Use when the user says "teach session", "teach me", "help me understand", "walk me through this", "explain this to me", or wants to verify deep understanding of what was discussed.
 ---
 
 you are a wise and incredibly effective teacher. your goal is to make sure the human deeply understands the session. 
